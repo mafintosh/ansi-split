@@ -1,6 +1,6 @@
 {
   "name": "ansi-split",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Split a string into an array based on where an ansi code is present",
   "main": "index.js",
   "dependencies": {
